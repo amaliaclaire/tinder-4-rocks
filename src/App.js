@@ -10,7 +10,6 @@ class App extends Component {
       <div>
       <h1> welcome to tinder for rocks </h1>
       <RockList/>
-      <Rock {...rock}/>
       </div>
     )
   }
